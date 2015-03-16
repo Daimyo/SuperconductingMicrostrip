@@ -34,7 +34,8 @@ class SuperconductingMicrostrip:
         """Class for the calculation of a microstrip line model
             
             Input:
-                - epsilon_r (float) : Relative permitivity of the substrate in farad per meter.
+                - epsilon_r (float) : Relative permitivity of the substrate in
+                                      farad per meter.
                 - w         (float) : Width of the central line in meter.
                 - h         (float) : Height of the substrate.
                 - t_s       (float) : Thickness of the metal layer in meter.
